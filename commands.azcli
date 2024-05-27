@@ -1,0 +1,4 @@
+dotnet new console
+
+dotnet new sln -n Seal01-Sln
+dotnet sln add ./Seal01/Seal01.csproj
